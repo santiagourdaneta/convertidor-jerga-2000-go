@@ -1,0 +1,20 @@
+# Archivos binarios de Go
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Directorios de módulos
+/vendor/
+/go.mod
+/go.sum
+
+# Archivos de pruebas
+*.test
+
+# Archivos de depuración
+*.prof
+
+# Entornos de desarrollo
+.vscode/
+.idea/
